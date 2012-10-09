@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Inconsolata&subset=latin,latin-ext);
+
+pre {
+  font-family: 'Inconsolata', monospace;
+  font-size: 12px;
+  background: #373D37;
+  color: #B0B1A6;
+  padding: 1em;
+}
+
+div.collapseHeader {
+  background-color: #4D404E;
+  color: #ECD781;
+}
+
+pre a {
+  color: #A5B6DA;
+}
+
+pre a:visited {
+  color: #9684AD;
+}
+
+div.expanded {
+
+  padding-left: 1em;
+  padding-top: 0.7em;
+  padding-bottom: 1.3em;
+  border-color: #7E6697;
+}
