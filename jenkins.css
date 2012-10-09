@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Inconsolata&subset=latin,latin-ext);
 
-pre {
+#main-table pre {
   font-family: 'Inconsolata', monospace;
   font-size: 12px;
   background: #373D37;
@@ -8,20 +8,20 @@ pre {
   padding: 1em;
 }
 
-div.collapseHeader {
+#main-table div.collapseHeader {
   background-color: #4D404E;
   color: #ECD781;
 }
 
-pre a {
+#main-table pre a {
   color: #A5B6DA;
 }
 
-pre a:visited {
+#main-table pre a:visited {
   color: #9684AD;
 }
 
-div.expanded {
+#main-table div.expanded {
 
   padding-left: 1em;
   padding-top: 0.7em;
